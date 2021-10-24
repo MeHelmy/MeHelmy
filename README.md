@@ -4,7 +4,7 @@ Computational biology Ph.D., Software engineer. Love programming using Java, Go,
 
 Skills: Python / Java / R / Go 
 
-- 🔭 I’m currently working on https://github.com/MeHelmy/princess 
+- 🔭 I’m currently working on Human genome genome variations 
 - 🌱 I’m currently learning Rust 
 - 👯 I’m looking to collaborate on Open source Bioiformatics projects 
 
@@ -22,6 +22,9 @@ Skills: Python / Java / R / Go
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MeHelmy)  
 
 ![Profile views](https://gpvc.arturio.dev/MeHelmy)  
+
+
+
 <!--
 **MeHelmy/MeHelmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
