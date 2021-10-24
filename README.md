@@ -1,5 +1,6 @@
 ### Hi there 👋, Medhat Mahmoud
 #### Bioinformatic scientist
+[link](https://github.com/MeHelmy/MeHelmy/blob/main/medhat_banner.png)
 Computational biology Ph.D., Software engineer. Love programming using Java, Go, Python, and R. Thrive on challenges and live for breakthroughs (and coffee). Working on data analysis, genome assembly, and comparative analysis. Also interested in evolution and mutations and phylogenetics. Where others say “that’s impossible”, I say “when do I start?” (usually after a cup of coffee).
 
 Skills: Python / Java / R / Go 
