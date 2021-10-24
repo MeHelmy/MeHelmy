@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Medhat
+
+Computational biology Ph.D., Software engineer. Love programming using Java, Python, and R. Thrive on challenges and live for breakthroughs (and coffee). Working on data analysis, genome assembly, and comparative analysis. Also interested in evolution and mutations and phylogenetics. Where others say “that’s impossible”, I say “when do I start?” (usually after a cup of coffee).
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeHelmy)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **MeHelmy/MeHelmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
