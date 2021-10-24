@@ -9,6 +9,7 @@ Computational biology Ph.D., Software engineer. Love programming using Java, Go,
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height=40 width=40/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height=40 width=40/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height=40 width=40 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height=40 width=40/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height=40 width=40 />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height=40 width=40/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height=40 width=40/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" height=40 width=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height=40 width=40/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height=40 width=40/>
  
 <!-- https://devicon.dev/ -->
+<!-- https://www.canva.com/design/DAEtxT1xzWU/Mm0vZtNmQcyFl39euUoeCg/edit?category=tACFapY0WQc -->
 - 🔭 I’m currently working on Human genome genome variations 
 - 🌱 I’m currently learning Rust 
 - 👯 I’m looking to collaborate on Open source Bioiformatics projects 
