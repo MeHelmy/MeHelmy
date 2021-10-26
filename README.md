@@ -10,7 +10,7 @@ Computational biology Ph.D., Software engineer. Love programming using Java, Go,
  
 <!-- https://devicon.dev/ -->
 <!-- https://www.canva.com/design/DAEtxT1xzWU/Mm0vZtNmQcyFl39euUoeCg/edit?category=tACFapY0WQc -->
-- 🔭 I’m currently working on Human genome genome variations 
+- 🔭 I’m currently working on Human genomic variations 
 - 🌱 I’m currently learning Rust 
 - 👯 I’m looking to collaborate on Open source Bioiformatics projects 
 
