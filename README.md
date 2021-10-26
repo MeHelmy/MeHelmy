@@ -1,5 +1,7 @@
-<img src="https://github.com/MeHelmy/MeHelmy/blob/main/medhat_banner.png" width=2000 />
-![link](https://github.com/MeHelmy/MeHelmy/blob/main/medhat_banner.png)  
+<img src="https://github.com/MeHelmy/MeHelmy/blob/main/medhat_banner.png" width=1000/>
+
+
+<!-- ![link](https://github.com/MeHelmy/MeHelmy/blob/main/medhat_banner.png)  -->
 
 
 ### Hi there 👋, Medhat Mahmoud
